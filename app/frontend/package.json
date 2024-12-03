@@ -1,7 +1,7 @@
 {
   "name": "@opendoc/frontend",
   "private": true,
-  "version": "1.7.1",
+  "version": "1.8.0",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev --host",
