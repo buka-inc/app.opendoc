@@ -1,5 +1,14 @@
 # @opendoc/sdk
 
+## 1.3.5
+
+### Patch Changes
+
+- a4b1215: 修复 allOf/oneOf/anyOf 的 schmea 枚举不是 ref 时编译错误的问题
+- 529d21f: sdk 支持 FormData
+- 373276f: 当 allOf/oneOf/anyOf 与 properties 同时存在时会生成错误的代码
+- 0be3302: sdk 注释支持 summary 字段
+
 ## 1.3.4
 
 ### Patch Changes

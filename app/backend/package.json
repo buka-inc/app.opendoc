@@ -1,6 +1,6 @@
 {
   "name": "@opendoc/backend",
-  "version": "1.7.1",
+  "version": "1.8.0",
   "private": true,
   "description": "The backend service of Opendoc",
   "scripts": {
